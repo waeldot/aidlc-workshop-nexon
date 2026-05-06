@@ -4,7 +4,7 @@
 - **Project Name**: 테이블오더 서비스 (Table Order Service)
 - **Project Type**: Greenfield
 - **Start Date**: 2026-05-06T00:00:00Z
-- **Current Stage**: INCEPTION - Workspace Detection
+- **Current Stage**: INCEPTION - Workflow Planning (Unit 3: Admin App)
 
 ## Workspace State
 - **Existing Code**: No
