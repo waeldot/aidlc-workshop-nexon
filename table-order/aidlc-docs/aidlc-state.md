@@ -38,7 +38,7 @@
 |-------|--------|-------|
 | Workspace Detection | COMPLETED | Greenfield project |
 | Requirements Analysis | COMPLETED | requirements.md generated |
-| User Stories | PENDING | |
-| Workflow Planning | PENDING | |
-| Application Design | PENDING | |
-| Units Generation | PENDING | |
+| User Stories | COMPLETED | 10 features, 38 stories generated |
+| Workflow Planning | SKIPPED | User directed to Units Generation directly |
+| Application Design | SKIPPED | Merged into Units Generation |
+| Units Generation | COMPLETED | 3 units: Backend API, Customer App, Admin App |
